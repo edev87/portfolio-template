@@ -1,6 +1,6 @@
 
-# My Awesome Project
-The CrytpoWatchList App allows users to register for an account and save/and or delete their favorite crytpo coins to a watchlist under their accoount.
+# CryptoWatchList Web App
+The CryptoWatchList Web App allows users to register for an account and will be allowed to save and/or delete their favorite crytpo coins from a watchlist listed under their accoount.
 
 ![projectDemoCrypto](https://user-images.githubusercontent.com/57330874/172710963-5eb6a390-bab0-4ca5-93f3-bbda6068752d.gif)
 
